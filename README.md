@@ -1,2 +1,2 @@
-# react-practice-2022
+# atomic-desighn
 Created with CodeSandbox
